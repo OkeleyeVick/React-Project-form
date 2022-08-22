@@ -1,7 +1,7 @@
 # React-Project-form (FoodExpress) :rocket:
 
 This is my first shot at creating a react app, it is a static page that contains the use of hooks and react-router-dom to create a 3-page. <br/>
-FoodExpress is a fastfood website that involves selling and processing fastfood 
+FoodExpress is a fastfood website that involves selling and processing fastfood <br/>
 The pages include: <br/>
 - [x] Registration Page.
 - [x] Login form page.
